@@ -1,0 +1,11 @@
+login
+admin
+create
+PartyFive
+151215
+10000
+
+delete
+
+PartyFour
+logout

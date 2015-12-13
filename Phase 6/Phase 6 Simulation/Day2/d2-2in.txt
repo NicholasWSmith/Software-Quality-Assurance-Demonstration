@@ -1,0 +1,14 @@
+login
+
+admin
+add
+
+Party
+
+1000
+
+delete
+
+PartyThree
+
+logout

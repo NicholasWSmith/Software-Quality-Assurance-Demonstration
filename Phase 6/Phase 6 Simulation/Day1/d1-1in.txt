@@ -1,0 +1,15 @@
+login
+admin
+create
+Party
+151211
+10
+
+create
+
+PartyTwo
+
+151212
+
+100
+logout

@@ -1,0 +1,10 @@
+login
+
+admin
+add
+
+PartyTwo
+
+4
+
+logout
